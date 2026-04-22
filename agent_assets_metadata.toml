@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "t4SX7X7BHLHATYE87MRLh"
+uri = "file://artifacts/craviers-cafe/public/images/hero.png"
+type = "image"
+title = "Cafe interior on rainy day"
+
+[[generated]]
+id = "17oIM5bqhyjJ1usZCSVsD"
+uri = "file://artifacts/craviers-cafe/public/images/coffee.png"
+type = "image"
+title = "Artisan latte with latte art"
+
+[[generated]]
+id = "qNNoV4hEXX1MsjrsMO0--"
+uri = "file://artifacts/craviers-cafe/public/images/pastry.png"
+type = "image"
+title = "Fresh flaky butter croissant"
+
+[[generated]]
+id = "QAmTkxHomnJ7_AF6hO2ft"
+uri = "file://artifacts/craviers-cafe/public/images/sandwich.png"
+type = "image"
+title = "Gourmet grilled cheese sandwich"
